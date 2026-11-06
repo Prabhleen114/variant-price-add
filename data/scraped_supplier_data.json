@@ -1,0 +1,4076 @@
+{
+  "https://jindeal.com/product/vedini-foaming-gel-scrub-base-cleansing/": {
+    "url": "https://jindeal.com/product/vedini-foaming-gel-scrub-base-cleansing/",
+    "title": "Vedini Foaming Gel Scrub Base (Cleansing)",
+    "variations": [
+      {
+        "price": 112.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Foaming-Gel-Scrub-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 252.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Foaming-Gel-Scrub-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 448.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Foaming-Gel-Scrub-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 784.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Foaming-Gel-Scrub-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-hand-wash-base-chloride-and-paraben-free/": {
+    "url": "https://jindeal.com/product/vedini-hand-wash-base-chloride-and-paraben-free/",
+    "title": "Vedini Hand wash Base Chloride and Paraben Free",
+    "variations": [
+      {
+        "price": 129.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "hw-cp-1l",
+        "is_in_stock": false
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-coconut-oil-without-smell/": {
+    "url": "https://jindeal.com/product/vedini-coconut-oil-without-smell/",
+    "title": "Vedini Coconut Oil Virgin Grade (Without Smell)",
+    "variations": [
+      {
+        "price": 89.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Coconut-no-smell-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 375.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Coconut-no-smell-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 679.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Coconut-no-smell-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 3299.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Coconut-no-smell-5L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-papaya-turmeric-licorice-gel-bases/": {
+    "url": "https://jindeal.com/product/vedini-papaya-turmeric-licorice-gel-bases/",
+    "title": "Vedini Papaya Turmeric Licorice Gel Bases",
+    "variations": [
+      {
+        "price": 111.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Papaya-Turmeric-Licorice-Gel-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 248.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Papaya-Turmeric-Licorice-Gel-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 440.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Papaya-Turmeric-Licorice-Gel-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 768.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Papaya-Turmeric-Licorice-Gel-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-geogard-ect/": {
+    "url": "https://jindeal.com/product/vedini-geogard-ect/",
+    "title": "Geogard ECT Natural Preservative (Broad Spectrum)",
+    "variations": [
+      {
+        "price": 349.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Geogard-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 599.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Geogard-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1099.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Geogard-200ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 2599.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Geogard-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 4999.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Geogard-1000ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-marula-oil-natural-therapeutic-grade-cold-pressed/": {
+    "url": "https://jindeal.com/product/vedini-marula-oil-natural-therapeutic-grade-cold-pressed/",
+    "title": "Vedini Marula Oil Natural Therapeutic Grade Cold Pressed",
+    "variations": [
+      {
+        "price": 590.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Vendor-Marula-Co-Oil-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 944.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Vendor-Marula-Co-Oil-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2183.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Vendor-Marula-Co-Oil-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 4130.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Vendor-Marula-Co-Oil-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 19470.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Vendor-Marula-Co-Oil-5ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/diethyl-phthalate-dep/": {
+    "url": "https://jindeal.com/product/diethyl-phthalate-dep/",
+    "title": "Diethyl Phthalate (DEP)",
+    "variations": [
+      {
+        "price": 49.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "DEP-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 179.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "DEP-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 299.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "DEP-1L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-anti-dandruff-serum-bases-colour-light-brownish-solubility-water/": {
+    "url": "https://jindeal.com/product/vedini-anti-dandruff-serum-bases-colour-light-brownish-solubility-water/",
+    "title": "Vedini Anti-Dandruff Serum Bases Colour Light Brownish Solubility: Water",
+    "variations": [
+      {
+        "price": 146.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Anti-Dandruff-Serum-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 336.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Anti-Dandruff-Serum-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 616.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Anti-Dandruff-Serum-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 1120.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Anti-Dandruff-Serum-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-skin-glow-sugar-scrub-base/": {
+    "url": "https://jindeal.com/product/vedini-skin-glow-sugar-scrub-base/",
+    "title": "Vedini Skin Glow Sugar Scrub Base",
+    "variations": [
+      {
+        "price": 112.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Skin-Glow-Sugar-Scrub-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 252.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Skin-Glow-Sugar-Scrub-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 448.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Skin-Glow-Sugar-Scrub-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 784.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Skin-Glow-Sugar-Scrub-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-borage-oil-natural-therapeutic-grade-cold-pressed/": {
+    "url": "https://jindeal.com/product/vedini-borage-oil-natural-therapeutic-grade-cold-pressed/",
+    "title": "Vedini Borage Oil Natural Therapeutic Grade Cold Pressed",
+    "variations": [
+      {
+        "price": 708.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Vendor-Borage-Co-Oil-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 944.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Vendor-Borage-Co-Oil-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2006.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Vendor-Borage-Co-Oil-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 3776.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Vendor-Borage-Co-Oil-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 17700.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Vendor-Borage-Co-Oil-5L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-hair-growth-serum-bases-colour-light-green-solubility-water/": {
+    "url": "https://jindeal.com/product/vedini-hair-growth-serum-bases-colour-light-green-solubility-water/",
+    "title": "Vedini Hair Growth Serum Bases Colour Light Green Solubility: Water",
+    "variations": [
+      {
+        "price": 146.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Hair-Growth-Serum-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 336.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Hair-Growth-Serum-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 616.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Hair-Growth-Serum-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 1120.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Hair-Growth-Serum-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-flax-seed-oils/": {
+    "url": "https://jindeal.com/product/vedini-flax-seed-oils/",
+    "title": "Vedini Flax Seed Oil – Cold Pressed | 100% Pure & Natural | For Skin, Hair & Wellness",
+    "variations": [
+      {
+        "price": 84.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Flax-Seed-CO-OIL-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 263.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Flax-Seed-CO-OIL-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 420.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Flax-Seed-CO-OIL-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 1968.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Flax-Seed-CO-OIL-5L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-cocoa-choco-lotion-bases-skin-type-dry/": {
+    "url": "https://jindeal.com/product/vedini-cocoa-choco-lotion-bases-skin-type-dry/",
+    "title": "Vedini Cocoa Choco Lotion Bases Skin Type Dry",
+    "variations": [
+      {
+        "price": 101.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Cocoa-Choco-Lotion-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 224.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Cocoa-Choco-Lotion-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 392.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Cocoa-Choco-Lotion-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 728.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Cocoa-Choco-Lotion-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-hemp-green-tea-lotion-bases/": {
+    "url": "https://jindeal.com/product/vedini-hemp-green-tea-lotion-bases/",
+    "title": "Vedini Hemp Green Tea Lotion Bases",
+    "variations": [
+      {
+        "price": 101.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Hemp-Green-Tea-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 224.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Hemp-Green-Tea-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 392.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Hemp-Green-Tea-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 728.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Hemp-Green-Tea-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-anti-stretch-marks-serum-bases-colour-light-brownish-solubility-water/": {
+    "url": "https://jindeal.com/product/vedini-anti-stretch-marks-serum-bases-colour-light-brownish-solubility-water/",
+    "title": "Vedini Anti Stretch Marks Serum Bases Colour Light Brownish Solubility: Water",
+    "variations": [
+      {
+        "price": 134.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Anti-Stretch-Marks-Serum-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 308.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Anti-Stretch-Marks-Serum-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 560.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Anti-Stretch-Marks-Serum-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 1008.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Anti-Stretch-Marks-Serum-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/phenoxyethanol/": {
+    "url": "https://jindeal.com/product/phenoxyethanol/",
+    "title": "Phenoxyethanol",
+    "variations": [
+      {
+        "price": 49.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Phenoxyethanol-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 99.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Phenoxyethanol-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 179.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Phenoxyethanol-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 349.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Phenoxyethanol-1L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-pearly-shampoo-base/": {
+    "url": "https://jindeal.com/product/vedini-pearly-shampoo-base/",
+    "title": "Vedini Pearly Shampoo Base",
+    "variations": [
+      {
+        "price": 99.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "SB-P-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 149.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "SB-P-1000ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-shea-aloe-vera-oats-lotion-bases/": {
+    "url": "https://jindeal.com/product/vedini-shea-aloe-vera-oats-lotion-bases/",
+    "title": "Vedini Shea Aloe Vera Oats Lotion Bases",
+    "variations": [
+      {
+        "price": 105.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Shea-Aloe-Vera-Oats-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 234.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Shea-Aloe-Vera-Oats-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 412.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Shea-Aloe-Vera-Oats-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 711.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Shea-Aloe-Vera-Oats-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-anti-wrinkle-serum-bases-colour-light-brownish-solubility-water/": {
+    "url": "https://jindeal.com/product/vedini-anti-wrinkle-serum-bases-colour-light-brownish-solubility-water/",
+    "title": "Vedini Anti-Wrinkle Serum Bases Colour Light Brownish Solubility: Water",
+    "variations": [
+      {
+        "price": 134.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Anti-Wrinkle-Serum-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 308.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Anti-Wrinkle-Serum-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 560.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Anti-Wrinkle-Serum-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 1008.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Anti-Wrinkle-Serum-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-spot-correction-serum-bases-colour-light-brownish-solubility-water/": {
+    "url": "https://jindeal.com/product/vedini-spot-correction-serum-bases-colour-light-brownish-solubility-water/",
+    "title": "Vedini Spot Correction Serum Bases Colour Light Brownish Solubility: Water",
+    "variations": [
+      {
+        "price": 134.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Spot-Correction-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 308.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Spot-Correction-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 560.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Spot-Correction-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 1008.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Spot-Correction-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-skin-firming-serum-bases-colour-light-brownish-solubility-water/": {
+    "url": "https://jindeal.com/product/vedini-skin-firming-serum-bases-colour-light-brownish-solubility-water/",
+    "title": "Vedini Skin Firming Serum Bases Colour Light Brownish Solubility: Water",
+    "variations": [
+      {
+        "price": 134.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Skin-Firming-Serum-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 308.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Skin-Firming-Serum-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 560.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Skin-Firming-Serum-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 1008.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Skin-Firming-Serum-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-sulfate-free-hand-wash-base-transparent/": {
+    "url": "https://jindeal.com/product/vedini-sulfate-free-hand-wash-base-transparent/",
+    "title": "Vedini Sulfate Free Hand Wash Base transparent",
+    "variations": [
+      {
+        "price": 249.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-chaulmoogra-oil-natural-therapeutic-grade-cold-pressed/": {
+    "url": "https://jindeal.com/product/vedini-chaulmoogra-oil-natural-therapeutic-grade-cold-pressed/",
+    "title": "Vedini Chaulmoogra Oil Natural Therapeutic Grade Cold Pressed",
+    "variations": [
+      {
+        "price": 354.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Vendor-Chaulmoogra-Co-Oil-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 566.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Vendor-Chaulmoogra-Co-Oil-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1062.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Vendor-Chaulmoogra-Co-Oil-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1829.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Vendor-Chaulmoogra-Co-Oil-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 8850.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Vendor-Chaulmoogra-Co-Oil-5L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/pet-shampoo-base-dogs-cats/": {
+    "url": "https://jindeal.com/product/pet-shampoo-base-dogs-cats/",
+    "title": "Vedini Pet Shampoo Base for Dogs & Cats | Mild pH Balanced Shampoo Base (Paraben Free) 1L",
+    "variations": [],
+    "simple_price": 269.0
+  },
+  "https://jindeal.com/product/vedini-turmeric-kokum-lotion-bases/": {
+    "url": "https://jindeal.com/product/vedini-turmeric-kokum-lotion-bases/",
+    "title": "Vedini Turmeric Kokum Lotion Bases",
+    "variations": [
+      {
+        "price": 101.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Turmeric-Kokum-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 224.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Turmeric-Kokum-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 392.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Turmeric-Kokum-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 728.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Turmeric-Kokum-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-plain-lotion-bases/": {
+    "url": "https://jindeal.com/product/vedini-plain-lotion-bases/",
+    "title": "Vedini Plain Lotion Bases",
+    "variations": [
+      {
+        "price": 94.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Plain-Lotion-Bases-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 206.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Plain-Lotion-Bases-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 356.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Plain-Lotion-Bases-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 600.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Plain-Lotion-Bases-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-lotion-base-sulfate-and-paraben-free/": {
+    "url": "https://jindeal.com/product/vedini-lotion-base-sulfate-and-paraben-free/",
+    "title": "Vedini Lotion Base Sulfate and Paraben Free",
+    "variations": [
+      {
+        "price": 129.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "500-LOTION",
+        "is_in_stock": true
+      },
+      {
+        "price": 199.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "lotion-base",
+        "is_in_stock": true
+      },
+      {
+        "price": 899.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "5L-LOTION",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-green-tea-oil-camellia-natural-therapeutic-grade-cold-pressed/": {
+    "url": "https://jindeal.com/product/vedini-green-tea-oil-camellia-natural-therapeutic-grade-cold-pressed/",
+    "title": "Vedini Green Tea Oil (Camellia) Natural Therapeutic Grade Cold Pressed",
+    "variations": [
+      {
+        "price": 413.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Vendor-Green-Tea-Co-Oil-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 755.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Vendor-Green-Tea-Co-Oil-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1652.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Vendor-Green-Tea-Co-Oil-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2950.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Vendor-Green-Tea-Co-Oil-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 14160.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Vendor-Green-Tea-Co-Oil-5L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-anti-ageing-serum-bases-colour-light-brownish-solubility-water/": {
+    "url": "https://jindeal.com/product/vedini-anti-ageing-serum-bases-colour-light-brownish-solubility-water/",
+    "title": "Vedini Anti-Ageing Serum Bases Colour Light Brownish Solubility: Water",
+    "variations": [
+      {
+        "price": 134.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Anti-Ageing-Serum-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 308.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Anti-Ageing-Serum-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 560.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Anti-Ageing-Serum-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 1008.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Anti-Ageing-Serum-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-triethanolamine-tea/": {
+    "url": "https://jindeal.com/product/vedini-triethanolamine-tea/",
+    "title": "Vedini Triethanolamine / TEA",
+    "variations": [
+      {
+        "price": 69.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Triethanolamine /TEA-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 99.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Triethanolamine /TEA-200ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 229.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Triethanolamine /TEA-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 419.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Triethanolamine /TEA-1L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-polysorbate-20/": {
+    "url": "https://jindeal.com/product/vedini-polysorbate-20/",
+    "title": "Vedini Polysorbate 20",
+    "variations": [
+      {
+        "price": 69.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Polysorbate-20-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 199.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Polysorbate-20-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 359.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Polysorbate-20-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-shea-oil/": {
+    "url": "https://jindeal.com/product/vedini-shea-oil/",
+    "title": "Vedini Shea Oil",
+    "variations": [
+      {
+        "price": 295.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Vendor-Shea-Co-Oil-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 472.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Vendor-Shea-Co-Oil-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1003.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Vendor-Shea-Co-Oil-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1888.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Vendor-Shea-Co-Oil-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 8850.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Vendor-Shea-Co-Oil-5ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-cucumber-ashwagandha-witch-hazel-gel-bases/": {
+    "url": "https://jindeal.com/product/vedini-cucumber-ashwagandha-witch-hazel-gel-bases/",
+    "title": "Vedini Cucumber Ashwagandha Witch Hazel Gel Bases",
+    "variations": [
+      {
+        "price": 111.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Cucumber-Ashwagandha-Gel-Bases-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 248.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Cucumber-Ashwagandha-Gel-Bases-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 440.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Cucumber-Ashwagandha-Gel-Bases-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 768.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Cucumber-Ashwagandha-Gel-Bases-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-body-wash-shower-gel-base-sls-sles-and-paraben-free/": {
+    "url": "https://jindeal.com/product/vedini-body-wash-shower-gel-base-sls-sles-and-paraben-free/",
+    "title": "Vedini Body Wash / Shower Gel Base (Sls, Sles and paraben Free)",
+    "variations": [
+      {
+        "price": 219.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Body-washsf-1L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-black-seed-oil-kalonji-oil-for-hair-growth-cold-pressed-100-pure-and-natural/": {
+    "url": "https://jindeal.com/product/vedini-black-seed-oil-kalonji-oil-for-hair-growth-cold-pressed-100-pure-and-natural/",
+    "title": "Vedini Black Seed Oil, Kalonji Oil For Hair Growth, Cold Pressed, 100% Pure and Natural",
+    "variations": [
+      {
+        "price": 210.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Black-Seed-Co-Oil-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 378.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Black-Seed-Co-Oil-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 788.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Black-Seed-Co-Oil-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1365.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Black-Seed-Co-Oil-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 6300.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Black-Seed-Co-Oil-5L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/sodium-benzoate-e211/": {
+    "url": "https://jindeal.com/product/sodium-benzoate-e211/",
+    "title": "SODIUM BENZOATE (E211)",
+    "variations": [
+      {
+        "price": 49.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "SODIUM-BENZOATE-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 79.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "SODIUM-BENZOATE-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 129.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "SODIUM-BENZOATE-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 209.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "SODIUM-BENZOATE-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-green-tea-moringa-gel-bases/": {
+    "url": "https://jindeal.com/product/vedini-green-tea-moringa-gel-bases/",
+    "title": "Vedini Green Tea Moringa Gel Bases",
+    "variations": [
+      {
+        "price": 111.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Green-Tea-Moringa-Gel-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 248.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Green-Tea-Moringa-Gel-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 440.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Green-Tea-Moringa-Gel-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 768.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Green-Tea-Moringa-Gel-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-fractionated-coconut-carrier-oil-natural-skin-moisturizer/": {
+    "url": "https://jindeal.com/product/vedini-fractionated-coconut-carrier-oil-natural-skin-moisturizer/",
+    "title": "Vedini Fractionated Coconut Carrier Oil Natural Skin Moisturizer",
+    "variations": [
+      {
+        "price": 179.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Fractionated-Coconut -Co-Oil-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 299.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Fractionated-Coconut -Co-Oil-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 499.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Fractionated-Coconut -Co-Oil-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 899.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Fractionated-Coconut -Co-Oil-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 4299.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Fractionated-Coconut -Co-Oil-5ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini/": {
+    "url": "https://jindeal.com/product/vedini/",
+    "title": "DMDM Hydantoin – Cosmetic Grade Preservative",
+    "variations": [
+      {
+        "price": 49.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "DMDM-Hydantoin-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 99.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "DMDM-Hydantoin-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 169.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "DMDM-Hydantoin-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 299.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "DMDM-Hydantoin-1L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-sulfate-free-face-wash-base-transparent/": {
+    "url": "https://jindeal.com/product/vedini-sulfate-free-face-wash-base-transparent/",
+    "title": "Vedini Sulfate Free Face wash Base transparent(Slide to Yellow Colour)",
+    "variations": [
+      {
+        "price": 169.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Facewash-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 269.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Facewash-1L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-olivem-1000-emulsifier/": {
+    "url": "https://jindeal.com/product/vedini-olivem-1000-emulsifier/",
+    "title": "Vedini Olivem 1000 Emulsifier",
+    "variations": [
+      {
+        "price": 399.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Olivem-1000-Emulsifier-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 1799.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Olivem-1000-Emulsifier-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 3399.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Olivem-1000-Emulsifier-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-skin-glow-serum-bases-colour-light-brownish-water/": {
+    "url": "https://jindeal.com/product/vedini-skin-glow-serum-bases-colour-light-brownish-water/",
+    "title": "Vedini Skin Glow Serum Bases Colour Light Brownish Solubility: Water",
+    "variations": [
+      {
+        "price": 206.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Skin-Glow-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 342.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Skin-Glow-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 643.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Skin-Glow-200ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1168.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Skin-Glow-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 2124.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Skin-Glow-1L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-anti-acne-serum-bases-colour-light-brownish-solubility-water/": {
+    "url": "https://jindeal.com/product/vedini-anti-acne-serum-bases-colour-light-brownish-solubility-water/",
+    "title": "Vedini Anti Acne Serum Bases Colour Light Brownish Solubility: Water",
+    "variations": [
+      {
+        "price": 134.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Anti-Acne-Serum-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 308.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Anti-Acne-Serum-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 560.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Anti-Acne-Serum-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 1008.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Anti-Acne-Serum-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-foaming-scrub-cream-base/": {
+    "url": "https://jindeal.com/product/vedini-foaming-scrub-cream-base/",
+    "title": "Vedini Foaming Scrub Cream Base",
+    "variations": [
+      {
+        "price": 101.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Foaming-Scrub-Cream-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 224.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Foaming-Scrub-Cream-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 392.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Foaming-Scrub-Cream-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 672.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Foaming-Scrub-Cream-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-premium-cream-base-with-skin-rejuvenationone-sample-allow-per-one-customer/": {
+    "url": "https://jindeal.com/product/vedini-premium-cream-base-with-skin-rejuvenationone-sample-allow-per-one-customer/",
+    "title": "Vedini Premium Cream Base with Skin Rejuvenation",
+    "variations": [
+      {
+        "price": 149.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Super-Cream",
+        "is_in_stock": true
+      },
+      {
+        "price": 549.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Super-Cream",
+        "is_in_stock": true
+      },
+      {
+        "price": 999.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Super-Cream",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-cream-base-sulfate-and-paraben-free/": {
+    "url": "https://jindeal.com/product/vedini-cream-base-sulfate-and-paraben-free/",
+    "title": "Vedini Cream Base Sulfate and Paraben Free",
+    "variations": [
+      {
+        "price": 49.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "100-CREAM",
+        "is_in_stock": true
+      },
+      {
+        "price": 149.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "500-CREAM",
+        "is_in_stock": true
+      },
+      {
+        "price": 249.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "1L-CREAM",
+        "is_in_stock": true
+      },
+      {
+        "price": 1099.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "5L-CREAM",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-babchi-bakuchi-oil-natural-therapeutic-grade-cold-pressed/": {
+    "url": "https://jindeal.com/product/vedini-babchi-bakuchi-oil-natural-therapeutic-grade-cold-pressed/",
+    "title": "Vedini Bakuchi (Babchi) Oil Natural Therapeutic Grade Cold Pressed",
+    "variations": [
+      {
+        "price": 315.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Bakuchi-Co-Oil-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 504.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Bakuchi-Co-Oil-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1050.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Bakuchi-Co-Oil-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1890.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Bakuchi-Co-Oil-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 8925.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Bakuchi-Co-Oil-5L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/isopropyl-myristate-ipm/": {
+    "url": "https://jindeal.com/product/isopropyl-myristate-ipm/",
+    "title": "Isopropyl Myristate (IPM) – Lightweight Emollient & Solvent for Cosmetics, Topicals & Personal Care",
+    "variations": [
+      {
+        "price": 99.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "IPM-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 399.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "IPM-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 699.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "IPM-1L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-under-eye-serum-bases-colour-light-brownish-solubility-water/": {
+    "url": "https://jindeal.com/product/vedini-under-eye-serum-bases-colour-light-brownish-solubility-water/",
+    "title": "Vedini Under Eye Serum Bases Colour Light Brownish Solubility: Water",
+    "variations": [
+      {
+        "price": 134.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Under-Eye-Serum-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 308.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Under-Eye-Serum-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 560.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Under-Eye-Serum-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 1008.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Under-Eye-Serum-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/iscaguard-peg/": {
+    "url": "https://jindeal.com/product/iscaguard-peg/",
+    "title": "Iscaguard PEG Preservative",
+    "variations": [
+      {
+        "price": 99.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Iscaguard-PEG-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 149.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Iscaguard-PEG-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 629.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Iscaguard-PEG-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1199.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Iscaguard-PEG-1L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/preservative-pcg/": {
+    "url": "https://jindeal.com/product/preservative-pcg/",
+    "title": "Saliguard® PCG Preservative",
+    "variations": [
+      {
+        "price": 199.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "PCG-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 699.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "PCG-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1599.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "PCG-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2999.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "PCG-1000ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-onion-hair-oil/": {
+    "url": "https://jindeal.com/product/vedini-onion-hair-oil/",
+    "title": "Vedini Onion Hair Oil",
+    "variations": [
+      {
+        "price": 968.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "vedini-onion-hair-oil-1litre",
+        "is_in_stock": false
+      },
+      {
+        "price": 484.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "vedini-onion-hair-oil-500ml",
+        "is_in_stock": false
+      },
+      {
+        "price": 120.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "vedini-onion-hair-oil-100ml",
+        "is_in_stock": false
+      },
+      {
+        "price": 73.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "vedini-onion-hair-oil-50ml",
+        "is_in_stock": false
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-melted-body-butter-bath-base-off-white/": {
+    "url": "https://jindeal.com/product/vedini-melted-body-butter-bath-base-off-white/",
+    "title": "Vedini Melted Body Butter Bath Base off White",
+    "variations": [
+      {
+        "price": 89.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Melted-Body-bath-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 159.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Melted-Body-bath-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 745.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Melted-Body-bath-5L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-hemp-and-green-tea-scrub-base-moisturising-and-anti-ageing/": {
+    "url": "https://jindeal.com/product/vedini-hemp-and-green-tea-scrub-base-moisturising-and-anti-ageing/",
+    "title": "Vedini Hemp and Green Tea Scrub Base (Moisturising and Anti-Ageing)",
+    "variations": [
+      {
+        "price": 112.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Hemp-and-Green-100gm",
+        "is_in_stock": false
+      },
+      {
+        "price": 252.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Hemp-and-Green-200gm",
+        "is_in_stock": false
+      },
+      {
+        "price": 448.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Hemp-and-Green-500gm",
+        "is_in_stock": false
+      },
+      {
+        "price": 784.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Hemp-and-Green-1kg",
+        "is_in_stock": false
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-under-eye-gel-bases/": {
+    "url": "https://jindeal.com/product/vedini-under-eye-gel-bases/",
+    "title": "Vedini Under Eye Gel Bases",
+    "variations": [
+      {
+        "price": 105.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Under-Eye-Gel-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 234.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Under-Eye-Gel-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 412.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Under-Eye-Gel-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 711.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Under-Eye-Gel-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-shea-butter-cream-base-no-colour-and-fregrence/": {
+    "url": "https://jindeal.com/product/vedini-shea-butter-cream-base-no-colour-and-fregrence/",
+    "title": "Vedini Shea Butter Cream Base",
+    "variations": [
+      {
+        "price": 99.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Cream-100",
+        "is_in_stock": true
+      },
+      {
+        "price": 189.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Cream-200",
+        "is_in_stock": true
+      },
+      {
+        "price": 399.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Cream-500",
+        "is_in_stock": true
+      },
+      {
+        "price": 789.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Cream-1l",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-sea-buckthorn-oil-natural-therapeutic-grade-cold-pressed/": {
+    "url": "https://jindeal.com/product/vedini-sea-buckthorn-oil-natural-therapeutic-grade-cold-pressed/",
+    "title": "Vedini Sea Buckthorn Oil Natural Therapeutic Grade Cold Pressed",
+    "variations": [
+      {
+        "price": 472.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Vendor-Sea-Buckthorn-Co-Oil-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 802.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Vendor-Sea-Buckthorn-Co-Oil-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1888.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Vendor-Sea-Buckthorn-Co-Oil-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 3540.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Vendor-Sea-Buckthorn-Co-Oil-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 16520.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Vendor-Sea-Buckthorn-Co-Oil-5ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-apricot-oil/": {
+    "url": "https://jindeal.com/product/vedini-apricot-oil/",
+    "title": "Vedini Apricot Oil",
+    "variations": [
+      {
+        "price": 119.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "apricot-50",
+        "is_in_stock": true
+      },
+      {
+        "price": 189.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "apricot-100",
+        "is_in_stock": true
+      },
+      {
+        "price": 499.0,
+        "attributes": {
+          "attribute_pa_size": "300-ml"
+        },
+        "sku": "apricot-300",
+        "is_in_stock": true
+      },
+      {
+        "price": 800.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "apricot-500",
+        "is_in_stock": true
+      },
+      {
+        "price": 1400.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "apricot-1 litre",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-green-tea-moringa-scrub-gel-base-anti-ageing/": {
+    "url": "https://jindeal.com/product/vedini-green-tea-moringa-scrub-gel-base-anti-ageing/",
+    "title": "Vedini Green Tea Moringa Scrub Gel Base (Anti-Ageing)",
+    "variations": [
+      {
+        "price": 112.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Green-Tea-Moringa-Scrub-Gel-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 252.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Green-Tea-Moringa-Scrub-Gel-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 448.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Green-Tea-Moringa-Scrub-Gel-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 784.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Green-Tea-Moringa-Scrub-Gel-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/herbal-scrub-gel-base/": {
+    "url": "https://jindeal.com/product/herbal-scrub-gel-base/",
+    "title": "Vedini Cucumber Ashwagandha Witch Hazel Scrub Gel Base (Spot Correction, Anti Acne)",
+    "variations": [
+      {
+        "price": 112.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Cucumber-Ashwagandha-Scrub-Gel-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 252.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Cucumber-Ashwagandha-Scrub-Gel-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 448.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Cucumber-Ashwagandha-Scrub-Gel-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 784.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Cucumber-Ashwagandha-Scrub-Gel-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/potassium-sorbate/": {
+    "url": "https://jindeal.com/product/potassium-sorbate/",
+    "title": "POTASSIUM SORBATE",
+    "variations": [
+      {
+        "price": 89.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "POTASSIUM-SORBATE-100GM",
+        "is_in_stock": true
+      },
+      {
+        "price": 279.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "POTASSIUM-SORBATE-500GM",
+        "is_in_stock": true
+      },
+      {
+        "price": 529.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "POTASSIUM-SORBATE-1KG",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-mango-almond-honey-lotion-bases/": {
+    "url": "https://jindeal.com/product/vedini-mango-almond-honey-lotion-bases/",
+    "title": "Vedini Mango Almond Honey Lotion Bases",
+    "variations": [
+      {
+        "price": 101.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Mango-Almond-Honey-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 224.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Mango-Almond-Honey-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 392.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Mango-Almond-Honey-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 728.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Mango-Almond-Honey-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-foot-scrub-base/": {
+    "url": "https://jindeal.com/product/vedini-foot-scrub-base/",
+    "title": "Vedini Foot Scrub Base",
+    "variations": [
+      {
+        "price": 101.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Foot-Scrub-Base-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 224.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Foot-Scrub-Base-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 392.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Foot-Scrub-Base-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 652.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Foot-Scrub-Base-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-moroccan-nila-powder-face-mask-for-brightening-dark-spots-pore-refining-all-skin-types/": {
+    "url": "https://jindeal.com/product/vedini-moroccan-nila-powder-face-mask-for-brightening-dark-spots-pore-refining-all-skin-types/",
+    "title": "Vedini Moroccan Nila Powder Face Mask for Brightening, Dark Spots & Pore Refining | All Skin Types 1L",
+    "variations": [],
+    "simple_price": 999.0
+  },
+  "https://jindeal.com/product/vedini-rose-hibiscus-manjishta-gel-bases/": {
+    "url": "https://jindeal.com/product/vedini-rose-hibiscus-manjishta-gel-bases/",
+    "title": "Vedini Rose Hibiscus Manjishta Gel Bases",
+    "variations": [
+      {
+        "price": 111.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Rose-Hibiscus-Manjishta-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 248.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Rose-Hibiscus-Manjishta-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 440.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Rose-Hibiscus-Manjishta-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 768.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Rose-Hibiscus-Manjishta-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-papaya-turmeric-licorice-scrub-gel-base-skin-glow/": {
+    "url": "https://jindeal.com/product/vedini-papaya-turmeric-licorice-scrub-gel-base-skin-glow/",
+    "title": "Vedini Papaya Turmeric Licorice Scrub Gel Base (Skin Glow)",
+    "variations": [
+      {
+        "price": 112.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Papaya-Turmeric-Scrub-Gel-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 252.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Papaya-Turmeric-Scrub-Gel-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 448.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Papaya-Turmeric-Scrub-Gel-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 784.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Papaya-Turmeric-Scrub-Gel-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-body-base-butter/": {
+    "url": "https://jindeal.com/product/vedini-body-base-butter/",
+    "title": "Vedini Body Butter Base",
+    "variations": [
+      {
+        "price": 229.0,
+        "attributes": {
+          "attribute_pa_quality": "with-extract-and-refined-shea",
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "body-butter-Extract-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 499.0,
+        "attributes": {
+          "attribute_pa_quality": "with-extract-and-refined-shea",
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "body-butter-Extract-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 899.0,
+        "attributes": {
+          "attribute_pa_quality": "with-extract-and-refined-shea",
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "body-butter-Extract-1000gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 1.0,
+        "attributes": {
+          "attribute_pa_quality": "with-raw-shea",
+          "attribute_pa_size": "free-sample-1-pc-max"
+        },
+        "sku": "body-butter-Sample",
+        "is_in_stock": true
+      },
+      {
+        "price": 199.0,
+        "attributes": {
+          "attribute_pa_quality": "with-raw-shea",
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "body-butter-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 449.0,
+        "attributes": {
+          "attribute_pa_quality": "with-raw-shea",
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "body-butter-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 849.0,
+        "attributes": {
+          "attribute_pa_quality": "with-raw-shea",
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "body-butter-1kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-soy-butter-wax/": {
+    "url": "https://jindeal.com/product/vedini-soy-butter-wax/",
+    "title": "Vedini Soy Butter Wax",
+    "variations": [
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 174
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 349
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 1695
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-soy-wax-pellets-white-chunk-aa/": {
+    "url": "https://jindeal.com/product/vedini-soy-wax-pellets-white-chunk-aa/",
+    "title": "Vedini Soy Wax White Chunk AA+",
+    "variations": [
+      {
+        "size": "little-soft-aa",
+        "attributes": {
+          "attribute_pa_quality": "little-soft-aa",
+          "attribute_pa_size": "450gm"
+        },
+        "price": 149
+      },
+      {
+        "size": "little-soft-aa",
+        "attributes": {
+          "attribute_pa_quality": "little-soft-aa",
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 239
+      },
+      {
+        "size": "regular-aa",
+        "attributes": {
+          "attribute_pa_quality": "regular-aa",
+          "attribute_pa_size": "450gm"
+        },
+        "price": 149
+      },
+      {
+        "size": "regular-aa",
+        "attributes": {
+          "attribute_pa_quality": "regular-aa",
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 249
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-rose-wax/": {
+    "url": "https://jindeal.com/product/vedini-rose-wax/",
+    "title": "Vedini Rose Wax",
+    "variations": [
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 649
+      },
+      {
+        "size": "200-gm",
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "price": 1199
+      },
+      {
+        "size": "500gm",
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "price": 2849
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 5649
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-mowrah-butter-unrefined/": {
+    "url": "https://jindeal.com/product/vedini-mowrah-butter-unrefined/",
+    "title": "Vedini Mowrah Butter Unrefined",
+    "variations": [
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 525
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 2499
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 4725
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-avocado-butter-light-green-in-colour/": {
+    "url": "https://jindeal.com/product/vedini-avocado-butter-light-green-in-colour/",
+    "title": "Vedini Avocado Butter (Avcado Butter) (Avacado Butter)",
+    "variations": [
+      {
+        "size": "50-gm",
+        "attributes": {
+          "attribute_pa_size": "50-gm"
+        },
+        "price": 79
+      },
+      {
+        "size": "200-gm",
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "price": 229
+      },
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 479
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 920
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-shea-butter-refined-from-africa-no-smell/": {
+    "url": "https://jindeal.com/product/vedini-shea-butter-refined-from-africa-no-smell/",
+    "title": "Vedini Refined Shea Butter From Africa No smell",
+    "variations": [
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 379
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 2899
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 5699
+      },
+      {
+        "size": "25kg",
+        "attributes": {
+          "attribute_pa_size": "25kg"
+        },
+        "price": 13999
+      },
+      {
+        "size": "50-gm",
+        "attributes": {
+          "attribute_pa_size": "50-gm"
+        },
+        "price": 89
+      },
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 119
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 629
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-coconut-wax/": {
+    "url": "https://jindeal.com/product/vedini-coconut-wax/",
+    "title": "Vedini NATURAL Coconut Wax",
+    "variations": [
+      {
+        "size": "100-kg",
+        "attributes": {
+          "attribute_pa_size": "100-kg"
+        },
+        "price": 61999
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 6350
+      },
+      {
+        "size": "25kg",
+        "attributes": {
+          "attribute_pa_size": "25kg"
+        },
+        "price": 15750
+      },
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 349
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 649
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 3195
+      }
+    ]
+  },
+  "https://jindeal.com/product/stearic-acid-emulsifying-thickener-with-softening-effect-good-for-cosmetics-making-cleansers-shampoos-soap-making-diy-personal-care/": {
+    "url": "https://jindeal.com/product/stearic-acid-emulsifying-thickener-with-softening-effect-good-for-cosmetics-making-cleansers-shampoos-soap-making-diy-personal-care/",
+    "title": "Stearic Acid Emulsifying Thickener with Softening Effect Good For Cosmetics Making, Cleansers, Shampoos, Soap Making, DIY Personal Care",
+    "variations": [
+      {
+        "size": "200-gm",
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "price": 69
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 229
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 1095
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-paraffin-wax-pellets-white-granule/": {
+    "url": "https://jindeal.com/product/vedini-paraffin-wax-pellets-white-granule/",
+    "title": "Vedini Paraffin Wax Pellets White Granule/ Chunks(Mix of both)",
+    "variations": [
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 114
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 219
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 1075
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 2099
+      },
+      {
+        "size": "25kg",
+        "attributes": {
+          "attribute_pa_size": "25kg"
+        },
+        "price": 5125
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-kokum-butter-organic-raw/": {
+    "url": "https://jindeal.com/product/vedini-kokum-butter-organic-raw/",
+    "title": "Vedini Kokum Butter (Organic Raw)",
+    "variations": [
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 349
+      },
+      {
+        "size": "50-gm",
+        "attributes": {
+          "attribute_pa_size": "50-gm"
+        },
+        "price": 79
+      },
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 109
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 649
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-candelilla-wax-pellets/": {
+    "url": "https://jindeal.com/product/vedini-candelilla-wax-pellets/",
+    "title": "Vedini Candelilla Wax Pellets",
+    "variations": [
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 229
+      },
+      {
+        "size": "200-gm",
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "price": 399
+      },
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 799
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 1499
+      }
+    ]
+  },
+  "https://jindeal.com/product/100-natural-pure-beeswax-pellets-white/": {
+    "url": "https://jindeal.com/product/100-natural-pure-beeswax-pellets-white/",
+    "title": "Vedini 100% Natural Pure Beeswax Pellets White",
+    "variations": [
+      {
+        "size": "50-gm",
+        "attributes": {
+          "attribute_pa_size": "50-gm"
+        },
+        "price": 59
+      },
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 99
+      },
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 249
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 479
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 2299
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 4499
+      },
+      {
+        "size": "25kg",
+        "attributes": {
+          "attribute_pa_size": "25kg"
+        },
+        "price": 10999
+      }
+    ]
+  },
+  "https://jindeal.com/product/organic-natural-pure-beeswax-pellets-yellow/": {
+    "url": "https://jindeal.com/product/organic-natural-pure-beeswax-pellets-yellow/",
+    "title": "Vedini 100% Organic Natural Pure Beeswax Pellets Yellow",
+    "variations": [
+      {
+        "size": "50-gm",
+        "attributes": {
+          "attribute_pa_size": "50-gm"
+        },
+        "price": 59
+      },
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 99
+      },
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 249
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 459
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 2299
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 4399
+      },
+      {
+        "size": "25kg",
+        "attributes": {
+          "attribute_pa_size": "25kg"
+        },
+        "price": 10599
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-mango-butter/": {
+    "url": "https://jindeal.com/product/vedini-mango-butter/",
+    "title": "Vedini Mango Butter",
+    "variations": [
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 499
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 968
+      },
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 145
+      },
+      {
+        "size": "50-gm",
+        "attributes": {
+          "attribute_pa_size": "50-gm"
+        },
+        "price": 85
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-cocoa-butter-2/": {
+    "url": "https://jindeal.com/product/vedini-cocoa-butter-2/",
+    "title": "Vedini Cocoa Butter Cosmetic Grade",
+    "variations": [
+      {
+        "size": "50-gm",
+        "attributes": {
+          "attribute_pa_size": "50-gm"
+        },
+        "price": 89
+      },
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 99
+      },
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 370
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 719
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 3585
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 7180
+      }
+    ]
+  },
+  "https://jindeal.com/product/coconut-shell-bowl-halves-natural-creative-eco-friendly-reusable-matt-finish/": {
+    "url": "https://jindeal.com/product/coconut-shell-bowl-halves-natural-creative-eco-friendly-reusable-matt-finish/",
+    "title": "Coconut Shell Bowl Halves Natural Creative Eco-Friendly Reusable Matt Finish Dispatch after 6 days",
+    "variations": [
+      {
+        "size": "150-300ml-oval",
+        "attributes": {
+          "attribute_pa_size": "150-300ml-oval",
+          "attribute_pa_pack": "pack-of-5"
+        },
+        "price": 109
+      },
+      {
+        "size": "150-300ml-oval",
+        "attributes": {
+          "attribute_pa_size": "150-300ml-oval",
+          "attribute_pa_pack": "pack-of-10pc"
+        },
+        "price": 200
+      },
+      {
+        "size": "150-300ml-oval",
+        "attributes": {
+          "attribute_pa_size": "150-300ml-oval",
+          "attribute_pa_pack": "pack-of-50-pcs"
+        },
+        "price": 899
+      },
+      {
+        "size": "150-200ml-round",
+        "attributes": {
+          "attribute_pa_size": "150-200ml-round",
+          "attribute_pa_pack": "pack-of-5"
+        },
+        "price": 169
+      },
+      {
+        "size": "150-200ml-round",
+        "attributes": {
+          "attribute_pa_size": "150-200ml-round",
+          "attribute_pa_pack": "pack-of-10pc"
+        },
+        "price": 320
+      },
+      {
+        "size": "150-200ml-round",
+        "attributes": {
+          "attribute_pa_size": "150-200ml-round",
+          "attribute_pa_pack": "pack-of-50-pcs"
+        },
+        "price": 1399
+      },
+      {
+        "size": "200-250ml-round",
+        "attributes": {
+          "attribute_pa_size": "200-250ml-round",
+          "attribute_pa_pack": "pack-of-5"
+        },
+        "price": 209
+      },
+      {
+        "size": "200-250ml-round",
+        "attributes": {
+          "attribute_pa_size": "200-250ml-round",
+          "attribute_pa_pack": "pack-of-10pc"
+        },
+        "price": 399
+      },
+      {
+        "size": "200-250ml-round",
+        "attributes": {
+          "attribute_pa_size": "200-250ml-round",
+          "attribute_pa_pack": "pack-of-50-pcs"
+        },
+        "price": 1749
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-coconut-butter/": {
+    "url": "https://jindeal.com/product/vedini-coconut-butter/",
+    "title": "Vedini Coconut Butter",
+    "variations": [
+      {
+        "size": "50-gm",
+        "attributes": {
+          "attribute_pa_size": "50-gm"
+        },
+        "price": 59
+      },
+      {
+        "size": "200-gm",
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "price": 169
+      },
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 349
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 599
+      }
+    ]
+  },
+  "https://jindeal.com/product/5l-wax-melter-with-tap/": {
+    "url": "https://jindeal.com/product/5l-wax-melter-with-tap/",
+    "title": "Wax Melter for Candle and Soap Making with Tap – 5L",
+    "variations": []
+  },
+  "https://jindeal.com/product/vedini-paraffin-wax-slab-white-block/": {
+    "url": "https://jindeal.com/product/vedini-paraffin-wax-slab-white-block/",
+    "title": "Vedini Paraffin Wax Slab White Block for Candle Making, DIY Crafts, Wax Melts & Industrial Use 1Kg",
+    "variations": []
+  },
+  "https://jindeal.com/product/vedini-carnauba-wax-pellets-block/": {
+    "url": "https://jindeal.com/product/vedini-carnauba-wax-pellets-block/",
+    "title": "Vedini Carnauba Wax (Block)",
+    "variations": [
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 200
+      },
+      {
+        "size": "200-gm",
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "price": 353
+      },
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 704
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 1359
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-bees-wax-unfiltered-1kg/": {
+    "url": "https://jindeal.com/product/vedini-bees-wax-unfiltered-1kg/",
+    "title": "Vedini Bees Wax Natural Yellow",
+    "variations": [
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 702
+      },
+      {
+        "size": "500gm",
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "price": 363
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-soy-wax-pearl/": {
+    "url": "https://jindeal.com/product/vedini-soy-wax-pearl/",
+    "title": "Vedini Soy Wax Pearl",
+    "variations": [
+      {
+        "size": "100-kg",
+        "attributes": {
+          "attribute_pa_size": "100-kg"
+        },
+        "price": 23000
+      },
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 139
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 249
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 1220
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 2399
+      },
+      {
+        "size": "25kg",
+        "attributes": {
+          "attribute_pa_size": "25kg"
+        },
+        "price": 5874
+      }
+    ]
+  },
+  "https://jindeal.com/product/100-organic-natural-pure-beeswax-slab-yellow-ip-grade/": {
+    "url": "https://jindeal.com/product/100-organic-natural-pure-beeswax-slab-yellow-ip-grade/",
+    "title": "100% Organic Natural Pure Beeswax Slab Yellow IP GRADE",
+    "variations": [
+      {
+        "size": "500gm",
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "price": 236
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 453
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 2227
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 4349
+      },
+      {
+        "size": "25kg",
+        "attributes": {
+          "attribute_pa_size": "25kg"
+        },
+        "price": 10599
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-high-density-crystal-gel-wax-1kg/": {
+    "url": "https://jindeal.com/product/vedini-high-density-crystal-gel-wax-1kg/",
+    "title": "Vedini Super High Density Crystal Gel Wax 1kg – Premium Clear Candle Gel Wax",
+    "variations": []
+  },
+  "https://jindeal.com/product/vedini-beeswax-white-slab-ip-grade/": {
+    "url": "https://jindeal.com/product/vedini-beeswax-white-slab-ip-grade/",
+    "title": "Vedini Beeswax White Slab IP Grade",
+    "variations": [
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 249
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 467
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 2299
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 4499
+      },
+      {
+        "size": "25kg",
+        "attributes": {
+          "attribute_pa_size": "25kg"
+        },
+        "price": 10999
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-464-soy-wax-flakes/": {
+    "url": "https://jindeal.com/product/vedini-464-soy-wax-flakes/",
+    "title": "Vedini 464 Soy Wax Natural Soy Wax Granule for Candle Making",
+    "variations": [
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 264
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 1299
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 2540
+      },
+      {
+        "size": "25kg",
+        "attributes": {
+          "attribute_pa_size": "25kg"
+        },
+        "price": 6249
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-chyura-phulwara-butter-unrefined/": {
+    "url": "https://jindeal.com/product/vedini-chyura-phulwara-butter-unrefined/",
+    "title": "Vedini Chyura (Phulwara) Butter (Unrefined)",
+    "variations": [
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 656
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 3150
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 6037
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-transparent-gel-wax-gel-wax-for-candle-making-1kg-used-as-a-container-wax-diy-candle-making-gel-wax/": {
+    "url": "https://jindeal.com/product/vedini-transparent-gel-wax-gel-wax-for-candle-making-1kg-used-as-a-container-wax-diy-candle-making-gel-wax/",
+    "title": "Vedini Transparent Gel Wax, Gel Wax for Candle Making Used as a Container Wax DIY Candle Making Gel Wax",
+    "variations": []
+  },
+  "https://jindeal.com/product/vedini-wax-pouring-funnel-1200-ml-capacity/": {
+    "url": "https://jindeal.com/product/vedini-wax-pouring-funnel-1200-ml-capacity/",
+    "title": "Vedini Wax Pouring Funnel Jug Capacity",
+    "variations": []
+  },
+  "https://jindeal.com/product/vedini-shea-butter/": {
+    "url": "https://jindeal.com/product/vedini-shea-butter/",
+    "title": "Vedini Raw Shea Butter (Organic Raw) From Africa",
+    "variations": [
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 349
+      },
+      {
+        "size": "50-gm",
+        "attributes": {
+          "attribute_pa_size": "50-gm"
+        },
+        "price": 79
+      },
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 99
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 649
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-natural-coconut-shell-bowl/": {
+    "url": "https://jindeal.com/product/vedini-natural-coconut-shell-bowl/",
+    "title": "Vedini Natural Coconut Shell Bowl (Mix Size) Polish",
+    "variations": [
+      {
+        "size": "pack-of-50-pcs",
+        "attributes": {
+          "attribute_pa_pack": "pack-of-50-pcs"
+        },
+        "price": 1699
+      },
+      {
+        "size": "pack-of-5",
+        "attributes": {
+          "attribute_pa_pack": "pack-of-5"
+        },
+        "price": 175
+      },
+      {
+        "size": "pack-of-10pc",
+        "attributes": {
+          "attribute_pa_pack": "pack-of-10pc"
+        },
+        "price": 340
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-emulsifying-wax-pallets/": {
+    "url": "https://jindeal.com/product/vedini-emulsifying-wax-pallets/",
+    "title": "Vedini Emulsifying Wax NF/ E-Wax / EWAX – Pallets",
+    "variations": [
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 70
+      },
+      {
+        "size": "200-gm",
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "price": 122
+      },
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 234
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 439
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 2049
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-sal-butter-unrefined-raw-sal-seed-butter/": {
+    "url": "https://jindeal.com/product/vedini-sal-butter-unrefined-raw-sal-seed-butter/",
+    "title": "Vedini Sal Butter [Unrefined, Raw Sal Seed Butter]",
+    "variations": [
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 147
+      },
+      {
+        "size": "200-gm",
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "price": 246
+      },
+      {
+        "size": "500gm",
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "price": 410
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 735
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 3282
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 6300
+      }
+    ]
+  },
+  "https://jindeal.com/product/vedini-wax-melter-10-ltr-capacity-candle-making/": {
+    "url": "https://jindeal.com/product/vedini-wax-melter-10-ltr-capacity-candle-making/",
+    "title": "Vedini Wax Melter 10 Ltr Capacity ( Candle Making )",
+    "variations": []
+  },
+  "https://jindeal.com/product/stainless-steel-melter-16ltr-art049/": {
+    "url": "https://jindeal.com/product/stainless-steel-melter-16ltr-art049/",
+    "title": "Stainless steel Melter 16 Ltr ART049",
+    "variations": []
+  },
+  "https://jindeal.com/product/vedini-cocoa-butter/": {
+    "url": "https://jindeal.com/product/vedini-cocoa-butter/",
+    "title": "Vedini Cocoa Butter Food Grade",
+    "variations": [
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 2310
+      },
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 1250
+      },
+      {
+        "size": "100gm",
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "price": 299
+      },
+      {
+        "size": "50-gm",
+        "attributes": {
+          "attribute_pa_size": "50-gm"
+        },
+        "price": 179
+      }
+    ]
+  },
+  "https://jindeal.com/product/soy-pillar-wax-blend-1kg/": {
+    "url": "https://jindeal.com/product/soy-pillar-wax-blend-1kg/",
+    "title": "Vedini Soy Pillar Blended Wax for Candle Making – 1 KG",
+    "variations": []
+  },
+  "https://jindeal.com/product/vedini-soy-wax-al-for-jars-candle-chunk-little-soft-100-pure-soy-wax-1kg/": {
+    "url": "https://jindeal.com/product/vedini-soy-wax-al-for-jars-candle-chunk-little-soft-100-pure-soy-wax-1kg/",
+    "title": "Vedini Soy Wax AL+ (For Jars Candle ) Chunk little Soft 100% pure Soy wax 1kg",
+    "variations": []
+  },
+  "https://jindeal.com/product/vedini-soy-wax-pellets-white-granule/": {
+    "url": "https://jindeal.com/product/vedini-soy-wax-pellets-white-granule/",
+    "title": "Vedini Soy Wax White Flakes ( Not for New Candle Maker)",
+    "variations": [
+      {
+        "size": "450gm",
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "price": 134
+      },
+      {
+        "size": "1-kg",
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "price": 249
+      },
+      {
+        "size": "5-kg",
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "price": 1199
+      },
+      {
+        "size": "10kg",
+        "attributes": {
+          "attribute_pa_size": "10kg"
+        },
+        "price": 2349
+      },
+      {
+        "size": "25kg",
+        "attributes": {
+          "attribute_pa_size": "25kg"
+        },
+        "price": 5624
+      }
+    ]
+  },
+  "https://jindeal.com/product/bubble-gum-flavour-oil/": {
+    "url": "https://jindeal.com/product/bubble-gum-flavour-oil/",
+    "title": "Vedini Bubble Gum Flavour Oil for Candy, Lip Balm, Bakery & DIY Cosmetics – Classic Sweet Bubblegum Aroma",
+    "variations": [
+      {
+        "price": 1249,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Bubble-Gum-Flavour-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 149,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Bubble-Gum-Flavour-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 649,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Bubble-Gum-Flavour-500ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/fizzy-pineapple-flavour/": {
+    "url": "https://jindeal.com/product/fizzy-pineapple-flavour/",
+    "title": "Vedini Fizzy Pineapple Flavour Oil for Candy, Lip Balm, Bakery & DIY Cosmetics – Sweet Tropical Pineapple Aroma",
+    "variations": [
+      {
+        "price": 849,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Pineapple-Flavour-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 99,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Pineapple-Flavour-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 449,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Pineapple-Flavour-500ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/tangy-berry-fizz-flavour/": {
+    "url": "https://jindeal.com/product/tangy-berry-fizz-flavour/",
+    "title": "Vedini Tangy Berry Fizz Flavour Oil for Candy, Lip Balm, Bakery & DIY Cosmetics – Sweet Fizzy Berry Aroma",
+    "variations": [
+      {
+        "price": 1799,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Tangy-Berry-Fizz-Flavour-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 199,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Tangy-Berry-Fizz-Flavour",
+        "is_in_stock": true
+      },
+      {
+        "price": 899,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Tangy-Berry-Fizz-Flavour-500ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/tangy-berry-blast-flavour/": {
+    "url": "https://jindeal.com/product/tangy-berry-blast-flavour/",
+    "title": "Vedini Tangy Berry Blast Flavour Oil for Candy, Lip Balm, Bakery & DIY Cosmetics – Sweet Mixed Berry Aroma",
+    "variations": [
+      {
+        "price": 1649,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Tangy-Berry-Blast-Flavour-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 199,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Tangy-Berry-Blast-Flavour-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 849,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Tangy-Berry-Blast-Flavour-500ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/strawberry-bubblegum-flavour/": {
+    "url": "https://jindeal.com/product/strawberry-bubblegum-flavour/",
+    "title": "Vedini Strawberry Bubblegum Flavour Oil for Lip Balm, Candy, Bakery & DIY Cosmetics – Sweet Fruity Aroma",
+    "variations": [
+      {
+        "price": 1199,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Strawberry-Bubblegum-Flavour-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 149,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Strawberry-Bubblegum-Favour-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 649,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Strawberry-Bubblegum-Favour-500ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-orange-natural-flavor/": {
+    "url": "https://jindeal.com/product/vedini-orange-natural-flavor/",
+    "title": "Vedini Orange Natural Flavor For Lip Balm and Cosmetics",
+    "variations": [
+      {
+        "price": 99,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "orange-Flv-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 139,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "orange-Flv-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 599,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "orange-Flv-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1099,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "orange-Flv",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-chocolate-flavor-oil-for-lip-balm-and-other-cosmetic/": {
+    "url": "https://jindeal.com/product/vedini-chocolate-flavor-oil-for-lip-balm-and-other-cosmetic/",
+    "title": "Vedini Chocolate Flavor Oil for Lip Balm, Candy, Bakery & DIY Cosmetics – Rich Cocoa Aroma",
+    "variations": [
+      {
+        "price": 99,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "CHOCOLATE-FLAVOR-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 149,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "CHOCOLATE-FLAVOR-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 649,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "CHOCOLATE-FLAVOR-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1199,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "CHOCOLATE-FLAVOR-1000ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-strawberry-flavor-for-lip-balm-and-cosmetic/": {
+    "url": "https://jindeal.com/product/vedini-strawberry-flavor-for-lip-balm-and-cosmetic/",
+    "title": "Vedini Strawberry Flavor for Lip Balm and Cosmetic",
+    "variations": [
+      {
+        "price": 139,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Strawberry-Flavor-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 189,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Strawberry-Flavor-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 799,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Strawberry-Flavor-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1499,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Strawberry-Flavor-1000ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-watermelon-flavor-oil-for-lip-balm-and-other-cosmetic/": {
+    "url": "https://jindeal.com/product/vedini-watermelon-flavor-oil-for-lip-balm-and-other-cosmetic/",
+    "title": "Vedini Watermelon Flavor Oil For Lip Balm and other Cosmetic",
+    "variations": [
+      {
+        "price": 139,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Watermelon-Flavor-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 189,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Watermelon-Flavor-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 799,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Watermelon-Flavor-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1499,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Watermelon-Flavor-1000ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-blueberry-flavor-oil-for-lip-balm-and-other-cosmetic/": {
+    "url": "https://jindeal.com/product/vedini-blueberry-flavor-oil-for-lip-balm-and-other-cosmetic/",
+    "title": "Vedini Blueberry Flavor Oil for Lip Balm, Candy, Bakery & DIY Cosmetics – Sweet Fruity Berry Aroma",
+    "variations": [
+      {
+        "price": 139,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "BLUEBERRY-FLAVOR-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 189,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "BLUEBERRY-FLAVOR-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 799,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "BLUEBERRY-FLAVOR-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1499,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "BLUEBERRY-FLAVOR-1000ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  }
+}

@@ -2909,55 +2909,63 @@
     "title": "Vedini 100% Natural Pure Beeswax Pellets White",
     "variations": [
       {
-        "size": "50-gm",
+        "price": 59.0,
         "attributes": {
           "attribute_pa_size": "50-gm"
         },
-        "price": 59
+        "sku": "Beeswax-white-p-50gm",
+        "is_in_stock": false
       },
       {
-        "size": "100gm",
+        "price": 99.0,
         "attributes": {
           "attribute_pa_size": "100gm"
         },
-        "price": 99
+        "sku": "Beeswax-white-p-100gm",
+        "is_in_stock": false
       },
       {
-        "size": "450gm",
+        "price": 249.0,
         "attributes": {
           "attribute_pa_size": "450gm"
         },
-        "price": 249
+        "sku": "Beeswax-white-p-450gm",
+        "is_in_stock": false
       },
       {
-        "size": "1-kg",
+        "price": 479.0,
         "attributes": {
           "attribute_pa_size": "1-kg"
         },
-        "price": 479
+        "sku": "Beeswax-white-p-1000gm",
+        "is_in_stock": false
       },
       {
-        "size": "5-kg",
+        "price": 2299.0,
         "attributes": {
           "attribute_pa_size": "5-kg"
         },
-        "price": 2299
+        "sku": "Beeswax-white-p-5000gm",
+        "is_in_stock": false
       },
       {
-        "size": "10kg",
+        "price": 4499.0,
         "attributes": {
           "attribute_pa_size": "10kg"
         },
-        "price": 4499
+        "sku": "Beeswax-white-p-10000gm",
+        "is_in_stock": true
       },
       {
-        "size": "25kg",
+        "price": 10999.0,
         "attributes": {
           "attribute_pa_size": "25kg"
         },
-        "price": 10999
+        "sku": "Beeswax-white-p-25000gm",
+        "is_in_stock": true
       }
-    ]
+    ],
+    "simple_price": null
   },
   "https://jindeal.com/product/organic-natural-pure-beeswax-pellets-yellow/": {
     "url": "https://jindeal.com/product/organic-natural-pure-beeswax-pellets-yellow/",
@@ -3257,20 +3265,23 @@
     "title": "Vedini Bees Wax Natural Yellow",
     "variations": [
       {
-        "size": "1-kg",
+        "price": 702.0,
         "attributes": {
           "attribute_pa_size": "1-kg"
         },
-        "price": 702
+        "sku": "bees-wax-unfiltered-1kg",
+        "is_in_stock": false
       },
       {
-        "size": "500gm",
+        "price": 363.0,
         "attributes": {
           "attribute_pa_size": "500gm"
         },
-        "price": 363
+        "sku": "bees-wax-unfiltered-500gm",
+        "is_in_stock": false
       }
-    ]
+    ],
+    "simple_price": null
   },
   "https://jindeal.com/product/vedini-soy-wax-pearl/": {
     "url": "https://jindeal.com/product/vedini-soy-wax-pearl/",
@@ -3643,34 +3654,39 @@
     "title": "Vedini Cocoa Butter Food Grade",
     "variations": [
       {
-        "size": "1-kg",
+        "price": 2310.0,
         "attributes": {
           "attribute_pa_size": "1-kg"
         },
-        "price": 2310
+        "sku": "cocoa-butter-1kg",
+        "is_in_stock": true
       },
       {
-        "size": "450gm",
+        "price": 1250.0,
         "attributes": {
           "attribute_pa_size": "450gm"
         },
-        "price": 1250
+        "sku": "cocoa-butter-450gm",
+        "is_in_stock": true
       },
       {
-        "size": "100gm",
+        "price": 299.0,
         "attributes": {
           "attribute_pa_size": "100gm"
         },
-        "price": 299
+        "sku": "cocoa-butter-100gm",
+        "is_in_stock": true
       },
       {
-        "size": "50-gm",
+        "price": 179.0,
         "attributes": {
           "attribute_pa_size": "50-gm"
         },
-        "price": 179
+        "sku": "cocoa-butter-50gm",
+        "is_in_stock": true
       }
-    ]
+    ],
+    "simple_price": null
   },
   "https://jindeal.com/product/soy-pillar-wax-blend-1kg/": {
     "url": "https://jindeal.com/product/soy-pillar-wax-blend-1kg/",
@@ -3883,7 +3899,7 @@
     "title": "Vedini Orange Natural Flavor For Lip Balm and Cosmetics",
     "variations": [
       {
-        "price": 99,
+        "price": 99.0,
         "attributes": {
           "attribute_pa_size": "50-ml"
         },
@@ -3891,7 +3907,7 @@
         "is_in_stock": true
       },
       {
-        "price": 139,
+        "price": 139.0,
         "attributes": {
           "attribute_pa_size": "100-ml"
         },
@@ -3899,7 +3915,7 @@
         "is_in_stock": true
       },
       {
-        "price": 599,
+        "price": 599.0,
         "attributes": {
           "attribute_pa_size": "500-ml"
         },
@@ -3907,7 +3923,7 @@
         "is_in_stock": true
       },
       {
-        "price": 1099,
+        "price": 1099.0,
         "attributes": {
           "attribute_pa_size": "1-litre"
         },
@@ -3922,7 +3938,7 @@
     "title": "Vedini Chocolate Flavor Oil for Lip Balm, Candy, Bakery & DIY Cosmetics – Rich Cocoa Aroma",
     "variations": [
       {
-        "price": 99,
+        "price": 99.0,
         "attributes": {
           "attribute_pa_size": "50-ml"
         },
@@ -3930,7 +3946,7 @@
         "is_in_stock": true
       },
       {
-        "price": 149,
+        "price": 149.0,
         "attributes": {
           "attribute_pa_size": "100-ml"
         },
@@ -3938,7 +3954,7 @@
         "is_in_stock": true
       },
       {
-        "price": 649,
+        "price": 649.0,
         "attributes": {
           "attribute_pa_size": "500-ml"
         },
@@ -3946,7 +3962,7 @@
         "is_in_stock": true
       },
       {
-        "price": 1199,
+        "price": 1199.0,
         "attributes": {
           "attribute_pa_size": "1-litre"
         },
@@ -3961,7 +3977,7 @@
     "title": "Vedini Strawberry Flavor for Lip Balm and Cosmetic",
     "variations": [
       {
-        "price": 139,
+        "price": 139.0,
         "attributes": {
           "attribute_pa_size": "50-ml"
         },
@@ -3969,7 +3985,7 @@
         "is_in_stock": true
       },
       {
-        "price": 189,
+        "price": 189.0,
         "attributes": {
           "attribute_pa_size": "100-ml"
         },
@@ -3977,7 +3993,7 @@
         "is_in_stock": true
       },
       {
-        "price": 799,
+        "price": 799.0,
         "attributes": {
           "attribute_pa_size": "500-ml"
         },
@@ -3985,7 +4001,7 @@
         "is_in_stock": true
       },
       {
-        "price": 1499,
+        "price": 1499.0,
         "attributes": {
           "attribute_pa_size": "1-litre"
         },
@@ -4000,7 +4016,7 @@
     "title": "Vedini Watermelon Flavor Oil For Lip Balm and other Cosmetic",
     "variations": [
       {
-        "price": 139,
+        "price": 139.0,
         "attributes": {
           "attribute_pa_size": "50-ml"
         },
@@ -4008,7 +4024,7 @@
         "is_in_stock": true
       },
       {
-        "price": 189,
+        "price": 189.0,
         "attributes": {
           "attribute_pa_size": "100-ml"
         },
@@ -4016,7 +4032,7 @@
         "is_in_stock": true
       },
       {
-        "price": 799,
+        "price": 799.0,
         "attributes": {
           "attribute_pa_size": "500-ml"
         },
@@ -4024,7 +4040,7 @@
         "is_in_stock": true
       },
       {
-        "price": 1499,
+        "price": 1499.0,
         "attributes": {
           "attribute_pa_size": "1-litre"
         },
@@ -4039,7 +4055,7 @@
     "title": "Vedini Blueberry Flavor Oil for Lip Balm, Candy, Bakery & DIY Cosmetics – Sweet Fruity Berry Aroma",
     "variations": [
       {
-        "price": 139,
+        "price": 139.0,
         "attributes": {
           "attribute_pa_size": "50-ml"
         },
@@ -4047,7 +4063,7 @@
         "is_in_stock": true
       },
       {
-        "price": 189,
+        "price": 189.0,
         "attributes": {
           "attribute_pa_size": "100-ml"
         },
@@ -4055,7 +4071,7 @@
         "is_in_stock": true
       },
       {
-        "price": 799,
+        "price": 799.0,
         "attributes": {
           "attribute_pa_size": "500-ml"
         },
@@ -4063,7 +4079,7 @@
         "is_in_stock": true
       },
       {
-        "price": 1499,
+        "price": 1499.0,
         "attributes": {
           "attribute_pa_size": "1-litre"
         },
@@ -4072,5 +4088,1950 @@
       }
     ],
     "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-groundnut-oil-cold-pressed/": {
+    "url": "https://jindeal.com/product/vedini-groundnut-oil-cold-pressed/",
+    "title": "Vedini Groundnut Oil Cold Pressed (peanut oil)",
+    "variations": [
+      {
+        "price": 169.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "groundnut-oil-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 299.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "groundnut-oil-1000ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1399.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "groundnut-oil-5000ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-olive-oil-extra-virgin/": {
+    "url": "https://jindeal.com/product/vedini-olive-oil-extra-virgin/",
+    "title": "Vedini Olive Oil (Extra Virgin)",
+    "variations": [
+      {
+        "price": 549.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "vedini-olive-oil-extra-virgin-1litre",
+        "is_in_stock": true
+      },
+      {
+        "price": 299.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "vedini-olive-oil-extra-virgin-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 79.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "vedini-olive-oil-extra-virgin-100ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-almond-oil-food-grade/": {
+    "url": "https://jindeal.com/product/vedini-almond-oil-food-grade/",
+    "title": "Vedini Almond Oil (Food Grade)",
+    "variations": [
+      {
+        "price": 1815.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "vedini-almond-oil-food-grade-1litre",
+        "is_in_stock": true
+      },
+      {
+        "price": 908.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "vedini-almond-oil-food-grade-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 218.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "vedini-almond-oil-food-grade-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 121.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "vedini-almond-oil-food-grade-50ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-canola-oil-extra-virgin-natural-therapeutic-grade-cold-pressed/": {
+    "url": "https://jindeal.com/product/vedini-canola-oil-extra-virgin-natural-therapeutic-grade-cold-pressed/",
+    "title": "Vedini Canola Oil (Extra Virgin) Natural Therapeutic Grade Cold Pressed",
+    "variations": [
+      {
+        "price": 53.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Vendor-Canola-Co-Oil-100ML",
+        "is_in_stock": false
+      },
+      {
+        "price": 75.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Vendor-Canola-Co-Oil-200ML",
+        "is_in_stock": false
+      },
+      {
+        "price": 158.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Vendor-Canola-Co-Oil-500ML",
+        "is_in_stock": false
+      },
+      {
+        "price": 299.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Vendor-Canola-Co-Oil-1L",
+        "is_in_stock": false
+      },
+      {
+        "price": 1417.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Vendor-Canola-Co-Oil-5L",
+        "is_in_stock": false
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-walnut-oil-grade-b-juglans-regia-origin-india/": {
+    "url": "https://jindeal.com/product/vedini-walnut-oil-grade-b-juglans-regia-origin-india/",
+    "title": "Vedini Walnut Oil ( Juglans Regia ) Origin: India",
+    "variations": [
+      {
+        "price": 149.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "walnut-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 249.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "walnut-oil-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 449.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "walnut-oil-200ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 999.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "walnut-oil-500ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-argan-oil-certified-organic/": {
+    "url": "https://jindeal.com/product/vedini-argan-oil-certified-organic/",
+    "title": "Vedini Argan Oil –  Pure Cosmetic & Carrier Oil",
+    "variations": [
+      {
+        "price": 2999.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "vedini-argan-oil-cerified-organic-1litre",
+        "is_in_stock": true
+      },
+      {
+        "price": 1599.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "vedini-argan-oil-cerified-organic-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 399.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "vedini-argan-oil-cerified-organic-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 249.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "vedini-argan-oil-cerified-organic-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 149.0,
+        "attributes": {
+          "attribute_pa_size": "15-ml"
+        },
+        "sku": "vedini-argan-oil-cerified-organic-15ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/jiyo-raw-peanut-oil-cold-pressed-groundnut-oil-plastic-bottle/": {
+    "url": "https://jindeal.com/product/jiyo-raw-peanut-oil-cold-pressed-groundnut-oil-plastic-bottle/",
+    "title": "Jiyo Raw Peanut Oil Cold Pressed Groundnut Oil Plastic Bottle",
+    "variations": [],
+    "simple_price": 319.0
+  },
+  "https://jindeal.com/product/vedini-soyabean-oil-cold-pressed/": {
+    "url": "https://jindeal.com/product/vedini-soyabean-oil-cold-pressed/",
+    "title": "Vedini Soyabean Oil (Virgin) Cold-Pressed",
+    "variations": [
+      {
+        "price": 95.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Vendor-Soyabean-Co-Oil-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 126.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Vendor-Soyabean-Co-Oil-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 263.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Vendor-Soyabean-Co-Oil-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 473.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Vendor-Soyabean-Co-Oil-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 2231.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Vendor-Soyabean-Co-Oil-5L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-hazel-nut-oil-corylus-avellane-origin-madagascar/": {
+    "url": "https://jindeal.com/product/vedini-hazel-nut-oil-corylus-avellane-origin-madagascar/",
+    "title": "Vedini Hazel Nut Oil (Corylus Avellane ) Origin: Madagascar",
+    "variations": [
+      {
+        "price": 149.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Hazel-nut-oil-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 279.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Hazel-nut-oil-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 429.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Hazel-nut-oil-200ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1249.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Hazel-nut-oil-500ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-100-pure-sesame-seed-oil-for-hair-skin-care/": {
+    "url": "https://jindeal.com/product/vedini-100-pure-sesame-seed-oil-for-hair-skin-care/",
+    "title": "Pure Sesame Seed Oil For Hair, Skin Care",
+    "variations": [
+      {
+        "price": 84.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Sesame-Seed-Co-Oil-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 126.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Sesame-Seed-Co-Oil-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 263.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Sesame-Seed-Co-Oil-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 473.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Sesame-Seed-Co-Oil-1L",
+        "is_in_stock": true
+      },
+      {
+        "price": 2231.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Sesame-Seed-Co-Oil-5L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/dill-essential-oil/": {
+    "url": "https://jindeal.com/product/dill-essential-oil/",
+    "title": "Vedini Dill Essential Oil ORIGIN INDIA 100% PURE DISTILLED ESSENTIAL OILS PURE AND NATURAL",
+    "variations": [
+      {
+        "price": 354.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Dil-100%-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 590.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Dil-100%-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 944.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Dil-100%-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2124.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Dil-100%-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 3999.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Dil-100%-EO-1000ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/saffron-essential-oil/": {
+    "url": "https://jindeal.com/product/saffron-essential-oil/",
+    "title": "Vedini Saffron Essential Oil 100% Pure & Natural Therapeutic Grade for Hair & Skin Care",
+    "variations": [
+      {
+        "price": 2832.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "VENDOR-Saffron-100%-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 5428.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "VENDOR-Saffron-100%-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 10478.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "VENDOR-Saffron-100%-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 25783.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "VENDOR-Saffron-100%-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 51330.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "VENDOR-Saffron-100%-EO-1000ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1888.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "VENDOR-Saffron-Cosmetic-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 3540.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "VENDOR-Saffron-Cosmetic-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 6277.6,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "VENDOR-Saffron-Cosmetic-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 15458.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "VENDOR-Saffron-Cosmetic-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 30680.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "VENDOR-Saffron-Cosmetic-EO-1000ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/fennel-essential-oil/": {
+    "url": "https://jindeal.com/product/fennel-essential-oil/",
+    "title": "Vedini Pure Fennel Essential Oil ORIGIN INDIA 100% PURE DISTILLED ESSENTIAL OILS PURE AND NATURAL",
+    "variations": [
+      {
+        "price": 389.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Fennel-100%-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 649.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Fennel-100%-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1180.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Fennel-100%-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2832.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Fennel-100%-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 5310.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Fennel-100%-EO-1000ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-coriander-essential-oil-100-pure-distilled-essential-oils/": {
+    "url": "https://jindeal.com/product/vedini-coriander-essential-oil-100-pure-distilled-essential-oils/",
+    "title": "Vedini Coriander Essential Oil 100% Pure , Distilled Essential Oils",
+    "variations": [
+      {
+        "price": 637.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "VENDOR-Coriander-100%-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1062.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "VENDOR-Coriander-100%-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1888.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "VENDOR-Coriander-100%-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 4248.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "VENDOR-Coriander-100%-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 7670.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "VENDOR-Coriander-100%-EO-1000ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 599.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "VENDOR-Coriander-Cosmetic-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 999.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "VENDOR-Coriander-Cosmetic-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1416.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "VENDOR-Coriander-Cosmetic-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2950.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "VENDOR-Coriander-Cosmetic-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 5428.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "VENDOR-Coriander-Cosmetic-EO-1000ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-lime-oil/": {
+    "url": "https://jindeal.com/product/vedini-lime-oil/",
+    "title": "Vedini Lime Essential Oil (Huge Price hike due to war)",
+    "variations": [
+      {
+        "price": 219.0,
+        "attributes": {
+          "attribute_pa_size": "15-ml"
+        },
+        "sku": "limeoil-15ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 599.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "limeoil-50mL",
+        "is_in_stock": true
+      },
+      {
+        "price": 1099.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "limeoil-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 4999.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "limeoil-500mL",
+        "is_in_stock": true
+      },
+      {
+        "price": 9468.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "limeoil-1L-100%",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/onion-natural-extracts-by-vedini/": {
+    "url": "https://jindeal.com/product/onion-natural-extracts-by-vedini/",
+    "title": "Onion Natural Extracts Oil Soluble 5.1 Ratio By Vedini",
+    "variations": [
+      {
+        "price": 306.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Vendor-Onion-Extracts-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 380.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Vendor-Onion-Extracts-200ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1014.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Vendor-Onion-Extracts-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1840.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Vendor-Onion-Extracts-1000ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/coffee-essential-oil/": {
+    "url": "https://jindeal.com/product/coffee-essential-oil/",
+    "title": "Vedini Coffee Essential Oil 100% Pure, Distilled Essential Oils",
+    "variations": [
+      {
+        "price": 1062.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "VENDOR-Coffee-100%-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1770.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "VENDOR-Coffee-100%-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 3307.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "VENDOR-Coffee-100%-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 7080.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "VENDOR-Coffee-100%-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 13865.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "VENDOR-Coffee-100%-EO-1000ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 531.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Coffee-Cosmetic-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 885.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Coffee-Cosmetic-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1416.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Coffee-Cosmetic-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2950.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Coffee-Cosmetic-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 5546.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Coffee-Cosmetic-EO-1000ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/hamdard-kachi-ghani-mustard-oil-rich-in-vitamin-a-d-omega-fatty-acids-boosts-overall-health-1-l-pet-bottle/": {
+    "url": "https://jindeal.com/product/hamdard-kachi-ghani-mustard-oil-rich-in-vitamin-a-d-omega-fatty-acids-boosts-overall-health-1-l-pet-bottle/",
+    "title": "Hamdard Kachi Ghani Mustard Oil – Rich In Vitamin A & D, Omega Fatty Acids, Boosts Overall Health, 1 L Pet Bottle",
+    "variations": [],
+    "simple_price": 139.0
+  },
+  "https://jindeal.com/product/vedini-mandarin-essential-oil-100-pure-natural-undiluted-oil-for-skin-care-hair-care/": {
+    "url": "https://jindeal.com/product/vedini-mandarin-essential-oil-100-pure-natural-undiluted-oil-for-skin-care-hair-care/",
+    "title": "Vedini Mandarin Essential Oil 100% Pure, Natural & Undiluted Oil for Skin Care & Hair Care",
+    "variations": [
+      {
+        "price": 283.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Mandarin-Cosmetic-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 472.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Mandarin-Cosmetic-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 849.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Mandarin-Cosmetic-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1888.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Mandarin-Cosmetic-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 3682.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Mandarin-Cosmetic-EO-1000ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-curry-leaf-essential-oil-100-pure-distilled-essential-oils/": {
+    "url": "https://jindeal.com/product/vedini-curry-leaf-essential-oil-100-pure-distilled-essential-oils/",
+    "title": "Vedini Curry Leaf Essential Oil 100% Pure , Distilled Essential Oils",
+    "variations": [
+      {
+        "price": 849.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "VENDOR-CurryLeaf-100%-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1416.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "VENDOR-CurryLeaf-100%-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2360.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "VENDOR-CurryLeaf-100%-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 5428.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "VENDOR-CurryLeaf-100%-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 10354.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "VENDOR-CurryLeaf-100%-EO-1000ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/natural-velli-velichenna-pure-coconut-oil-1l-for-food-preparation-skin-hair-cold-process-soap-and-other-cosmetic/": {
+    "url": "https://jindeal.com/product/natural-velli-velichenna-pure-coconut-oil-1l-for-food-preparation-skin-hair-cold-process-soap-and-other-cosmetic/",
+    "title": "Natural Velli Velichenna Pure Coconut Oil 1L for Food Preparation, Skin, Hair, Cold Process  Soap and other Cosmetic",
+    "variations": [],
+    "simple_price": 349.0
+  },
+  "https://jindeal.com/product/vedini-nutmeg-essential-oil-pure-and-natural-therapeutic-grade/": {
+    "url": "https://jindeal.com/product/vedini-nutmeg-essential-oil-pure-and-natural-therapeutic-grade/",
+    "title": "Vedini Nutmeg Essential Oil Pure And Natural Therapeutic Grade",
+    "variations": [
+      {
+        "price": 384.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Nutmeg-100%-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 696.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Nutmeg-100%-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1038.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Nutmeg-100%-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2478.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Nutmeg-100%-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 4602.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Nutmeg-100%-EO-1L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/rose-essential-oil/": {
+    "url": "https://jindeal.com/product/rose-essential-oil/",
+    "title": "Vedini Rose (edible grade) Essential oil Pure and Natural Therapeutic grade for skin care, Hair care,",
+    "variations": [
+      {
+        "price": 2714.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "VENDOR-Rose(edible grade)-100%-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 5310.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "VENDOR-Rose(edible grade)-100%-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 10384.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "VENDOR-Rose(edible grade)-100%-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 25193.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "VENDOR-Rose(edible grade)-100%-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 50150.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "VENDOR-Rose(edible grade)-100%-EO-1000ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 649.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Rose-Cosmetic-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1180.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Rose-Cosmetic-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1999.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Rose-Cosmetic-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 4543.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Rose-Cosmetic-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 8260.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Rose-Cosmetic-EO-1000ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/frankincense-natural-extracts-by-vedini/": {
+    "url": "https://jindeal.com/product/frankincense-natural-extracts-by-vedini/",
+    "title": "Frankincense Natural Extracts Oil Soluble By Vedini",
+    "variations": [
+      {
+        "price": 448.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Vendor-Frankincense-Extracts-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 556.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Vendor-Frankincense-Extracts-200ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1492.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Vendor-Frankincense-Extracts-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 2714.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Vendor-Frankincense-Extracts-1000ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-bergamot-essential-oil-origin-italy/": {
+    "url": "https://jindeal.com/product/vedini-bergamot-essential-oil-origin-italy/",
+    "title": "Vedini Bergamot Essential oil Origin: Italy Certified Organic Essential Oils",
+    "variations": [
+      {
+        "price": 295.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Bergamot -100%-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 531.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Bergamot -100%-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2124.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Bergamot -100%-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 3894.0,
+        "attributes": {
+          "attribute_pa_quality": "100-pure-natural-essential-oil",
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Bergamot -100%-EO-1000ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 442.0,
+        "attributes": {
+          "attribute_pa_quality": "certified-organic",
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Bergamot -organic-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 738.0,
+        "attributes": {
+          "attribute_pa_quality": "certified-organic",
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Bergamot -organic-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 3186.0,
+        "attributes": {
+          "attribute_pa_quality": "certified-organic",
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Bergamot -organic-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 6195.0,
+        "attributes": {
+          "attribute_pa_quality": "certified-organic",
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Bergamot -organic-EO-1000ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 139.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "15-ml"
+        },
+        "sku": "15ml-BergamotEO",
+        "is_in_stock": true
+      },
+      {
+        "price": 199.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "50ml-BergamotEO",
+        "is_in_stock": true
+      },
+      {
+        "price": 299.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "100ml-Bergamot-EO",
+        "is_in_stock": true
+      },
+      {
+        "price": 1349.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "500ml-Bergamot-EO",
+        "is_in_stock": true
+      },
+      {
+        "price": 2599.0,
+        "attributes": {
+          "attribute_pa_quality": "cosmetic-grade-essential-oil",
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "1L-Bergamot-EO",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/jiyo-raw-wooden-pressed-black-mustard-oil-mustard-oil-plastic-bottle-1000-ml/": {
+    "url": "https://jindeal.com/product/jiyo-raw-wooden-pressed-black-mustard-oil-mustard-oil-plastic-bottle-1000-ml/",
+    "title": "Jiyo Raw Wooden Pressed Black Mustard Oil Mustard Oil Plastic Bottle  (1000 ml)",
+    "variations": [],
+    "simple_price": 235.0
+  },
+  "https://jindeal.com/product/vedini-patchouli-dark-essential-oil-origin-india/": {
+    "url": "https://jindeal.com/product/vedini-patchouli-dark-essential-oil-origin-india/",
+    "title": "Vedini Patchouli Dark Essential Oil Origin INDIA",
+    "variations": [
+      {
+        "price": 149.0,
+        "attributes": {
+          "attribute_pa_size": "15-ml"
+        },
+        "sku": "15ml-PatchouliDark",
+        "is_in_stock": true
+      },
+      {
+        "price": 219.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "50ml-PatchouliDark",
+        "is_in_stock": true
+      },
+      {
+        "price": 399.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "100ml-PatchouliDark",
+        "is_in_stock": true
+      },
+      {
+        "price": 1799.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "500ml-PatchouliDark",
+        "is_in_stock": true
+      },
+      {
+        "price": 3499.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "1L-PatchouliDark",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-real-lemon-fragrance-oil/": {
+    "url": "https://jindeal.com/product/vedini-real-lemon-fragrance-oil/",
+    "title": "Vedini Real lemon Fragrance Oil",
+    "variations": [
+      {
+        "price": 1997.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "real-lemon-1000ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1035.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "real-lemon-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 284.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "real-lemon-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 84.0,
+        "attributes": {
+          "attribute_pa_size": "15-ml"
+        },
+        "sku": "real-lemon-15ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-iris-lime-fragrance-oil/": {
+    "url": "https://jindeal.com/product/vedini-iris-lime-fragrance-oil/",
+    "title": "Vedini IRIS Lime Fragrance Oil",
+    "variations": [
+      {
+        "price": 1150.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "iris-lime-fragrance-oil-1litre",
+        "is_in_stock": true
+      },
+      {
+        "price": 611.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "iris-lime-fragrance-oil-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 200.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "iris-lime-fragrance-oil-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 84.0,
+        "attributes": {
+          "attribute_pa_size": "15-ml"
+        },
+        "sku": "iris-lime-fragrance-oil-15ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/pure-anise-essential-oil/": {
+    "url": "https://jindeal.com/product/pure-anise-essential-oil/",
+    "title": "Vedini Pure Anise Essential Oil Steam Distilled, 100% Pure and Natural",
+    "variations": [
+      {
+        "price": 212.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Anise-100%-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 295.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Anise-100%-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 661.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Anise-100%-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 1534.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Anise-100%-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2655.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Anise-100%-EO-1000ML",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-strawberry-fragrance-oil/": {
+    "url": "https://jindeal.com/product/vedini-strawberry-fragrance-oil/",
+    "title": "Vedini Strawberry Fragrance Oil",
+    "variations": [
+      {
+        "price": 84.0,
+        "attributes": {
+          "attribute_pa_size": "15-ml"
+        },
+        "sku": "Strawberry-Fragrance-Oil-15ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 139.0,
+        "attributes": {
+          "attribute_pa_size": "30-ml"
+        },
+        "sku": "Strawberry-Fragrance-Oil-30ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 189.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Strawberry-Fragrance-Oil-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 229.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Strawberry-Fragrance-Oil-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 762.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Strawberry-Fragrance-Oil-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 1452.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Strawberry-Fragrance-Oil-1L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-hing-essential-oil/": {
+    "url": "https://jindeal.com/product/vedini-hing-essential-oil/",
+    "title": "Vedini Hing Essential Oil",
+    "variations": [],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-orange-oil/": {
+    "url": "https://jindeal.com/product/vedini-orange-oil/",
+    "title": "Vedini Natural Orange Essential Oil",
+    "variations": [
+      {
+        "price": 219.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "orange-oil-50ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 3689.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "orange-oil-1litre",
+        "is_in_stock": true
+      },
+      {
+        "price": 1899.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "orange-oil-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 399.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "orange-oil-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 99.0,
+        "attributes": {
+          "attribute_pa_size": "15-ml"
+        },
+        "sku": "orange-oil-15ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-lemongrass-oil/": {
+    "url": "https://jindeal.com/product/vedini-lemongrass-oil/",
+    "title": "Vedini Lemongrass Essential Oil",
+    "variations": [
+      {
+        "price": 219.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "lemongrass-oil",
+        "is_in_stock": true
+      },
+      {
+        "price": 299.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "lemongrass-oil",
+        "is_in_stock": true
+      },
+      {
+        "price": 1199.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "lemongrass-oil",
+        "is_in_stock": true
+      },
+      {
+        "price": 2299.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "vedini-lemongrass-oil-1litre",
+        "is_in_stock": true
+      },
+      {
+        "price": 139.0,
+        "attributes": {
+          "attribute_pa_size": "15-ml"
+        },
+        "sku": "vedini-lemongrass-oil-15ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/jiyo-raw-wooden-cold-pressed-yellow-mustrad-oil-mustard-oil-plastic-bottle/": {
+    "url": "https://jindeal.com/product/jiyo-raw-wooden-cold-pressed-yellow-mustrad-oil-mustard-oil-plastic-bottle/",
+    "title": "Jiyo Raw Wooden Cold Pressed Yellow Mustard Oil Plastic Bottle",
+    "variations": [],
+    "simple_price": 346.0
+  },
+  "https://jindeal.com/product/vedini-grapefruit-pink-essential-oil/": {
+    "url": "https://jindeal.com/product/vedini-grapefruit-pink-essential-oil/",
+    "title": "Vedini Grapefruit Pink Essential Oil",
+    "variations": [
+      {
+        "price": 212.0,
+        "attributes": {
+          "attribute_pa_size": "50-ml"
+        },
+        "sku": "Grapefruit-Pink-100%-EO-50ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 590.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Grapefruit-Pink-100%-EO-100ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 944.0,
+        "attributes": {
+          "attribute_pa_size": "200-ml"
+        },
+        "sku": "Grapefruit-Pink-100%-EO-200ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 2242.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Grapefruit-Pink-100%-EO-500ML",
+        "is_in_stock": true
+      },
+      {
+        "price": 4248.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Grapefruit-Pink-100%-EO-1L",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/lime-hydrosol-water-by-vedini-organic-with-sprayer/": {
+    "url": "https://jindeal.com/product/lime-hydrosol-water-by-vedini-organic-with-sprayer/",
+    "title": "Lime Hydrosol Water By Vedini Organic",
+    "variations": [
+      {
+        "price": 109.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Lime-Hydrosol-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 199.0,
+        "attributes": {
+          "attribute_pa_size": "300-ml"
+        },
+        "sku": "Lime-Hydrosol-300ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 283.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Lime-Hydrosol-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 472.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Lime-Hydrosol-1000ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 2065.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Lime-Hydrosol-5000ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/kewra-hydrosol-water-by-vedini-organic-with-sprayer/": {
+    "url": "https://jindeal.com/product/kewra-hydrosol-water-by-vedini-organic-with-sprayer/",
+    "title": "Kewra Hydrosol Water By Vedini Organic",
+    "variations": [
+      {
+        "price": 149.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Kewra-Hydrosol-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 299.0,
+        "attributes": {
+          "attribute_pa_size": "300-ml"
+        },
+        "sku": "Kewra-Hydrosol-300ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 424.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Kewra-Hydrosol-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 699.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Kewra-Hydrosol-1000ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 3245.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Kewra-Hydrosol-5000ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-natural-tulsi-leaves-powder/": {
+    "url": "https://jindeal.com/product/vedini-natural-tulsi-leaves-powder/",
+    "title": "Vedini Natural Tulsi Leaves Powder",
+    "variations": [
+      {
+        "price": 59.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Tulsi-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 179.0,
+        "attributes": {
+          "attribute_pa_size": "450gm"
+        },
+        "sku": "Tulsi-450gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 299.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Tulsi-1kg",
+        "is_in_stock": true
+      },
+      {
+        "price": 1425.0,
+        "attributes": {
+          "attribute_pa_size": "5-kg"
+        },
+        "sku": "Tulsi-5kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/lemongrass-hydrosol-water-by-vedini-organic-with-sprayer/": {
+    "url": "https://jindeal.com/product/lemongrass-hydrosol-water-by-vedini-organic-with-sprayer/",
+    "title": "Lemongrass Hydrosol Water By Vedini Organic",
+    "variations": [
+      {
+        "price": 109.0,
+        "attributes": {
+          "attribute_pa_size": "100-ml"
+        },
+        "sku": "Vendor-Lemongrass-Hydrosol-100ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 199.0,
+        "attributes": {
+          "attribute_pa_size": "300-ml"
+        },
+        "sku": "Vendor-Lemongrass-Hydrosol-300ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 283.0,
+        "attributes": {
+          "attribute_pa_size": "500-ml"
+        },
+        "sku": "Vendor-Lemongrass-Hydrosol-500ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 472.0,
+        "attributes": {
+          "attribute_pa_size": "1-litre"
+        },
+        "sku": "Vendor-Lemongrass-Hydrosol-1000ml",
+        "is_in_stock": true
+      },
+      {
+        "price": 2065.0,
+        "attributes": {
+          "attribute_pa_size": "5-liter"
+        },
+        "sku": "Vendor-Lemongrass-Hydrosol-5000ml",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/hibiscus-dry-flower/": {
+    "url": "https://jindeal.com/product/hibiscus-dry-flower/",
+    "title": "Vedini Hibiscus Dry Flower",
+    "variations": [
+      {
+        "price": 175.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "Dry-hibiscus-200gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 59.0,
+        "attributes": {
+          "attribute_pa_size": "50-gm"
+        },
+        "sku": "Dry-hibiscus-50gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 99.0,
+        "attributes": {
+          "attribute_pa_size": "100gm"
+        },
+        "sku": "Dry-hibiscus-100gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 349.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "Dry-hibiscus-500gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 599.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "Dry-hibiscus-1Kg",
+        "is_in_stock": true
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-egg-shape-chocolate-making-silicone-mold/": {
+    "url": "https://jindeal.com/product/vedini-egg-shape-chocolate-making-silicone-mold/",
+    "title": "Vedini 15 Egg Easter Shape Chocolate Making Silicone Mold JKB-679",
+    "variations": [],
+    "simple_price": 75.0
+  },
+  "https://jindeal.com/product/dry-lemon-grass/": {
+    "url": "https://jindeal.com/product/dry-lemon-grass/",
+    "title": "DRY Lemon Grass",
+    "variations": [
+      {
+        "price": 49.0,
+        "attributes": {
+          "attribute_pa_size": "50-gm"
+        },
+        "sku": "D-Lemongras-50gm",
+        "is_in_stock": true
+      },
+      {
+        "price": 129.0,
+        "attributes": {
+          "attribute_pa_size": "200-gm"
+        },
+        "sku": "D-Lemongras-200gm",
+        "is_in_stock": false
+      },
+      {
+        "price": 199.0,
+        "attributes": {
+          "attribute_pa_size": "500gm"
+        },
+        "sku": "D-Lemongras-500gm",
+        "is_in_stock": false
+      },
+      {
+        "price": 299.0,
+        "attributes": {
+          "attribute_pa_size": "1-kg"
+        },
+        "sku": "D-Lemongras-1KG",
+        "is_in_stock": false
+      }
+    ],
+    "simple_price": null
+  },
+  "https://jindeal.com/product/vedini-silicone-kitkat-shape-chocolate-mould/": {
+    "url": "https://jindeal.com/product/vedini-silicone-kitkat-shape-chocolate-mould/",
+    "title": "Vedini Silicone kitkat Shape Chocolate Mould JKB-642",
+    "variations": [],
+    "simple_price": 149.0
+  },
+  "https://jindeal.com/product/8-cavity-fruit-world-silicone-mold-apple-strawberry-grape-banana-for-soap-chocolate-ice-jkb-3459/": {
+    "url": "https://jindeal.com/product/8-cavity-fruit-world-silicone-mold-apple-strawberry-grape-banana-for-soap-chocolate-ice-jkb-3459/",
+    "title": "8-Cavity Fruit World Silicone Mold (Apple, Strawberry, Grape, Banana) for Soap, Chocolate & Ice JKB-3459",
+    "variations": [],
+    "simple_price": 99.0
+  },
+  "https://jindeal.com/product/vedini-8-hole-cylinder-round-soap-cake-mold-jkb-318/": {
+    "url": "https://jindeal.com/product/vedini-8-hole-cylinder-round-soap-cake-mold-jkb-318/",
+    "title": "Vedini 8 hole Cylinder round shape soap making molds, silicone cake mold (80gm approx) JKB-318",
+    "variations": [],
+    "simple_price": 199.0
+  },
+  "https://jindeal.com/product/vedini-15-cavity-heart-raindrop-silicone-mold/": {
+    "url": "https://jindeal.com/product/vedini-15-cavity-heart-raindrop-silicone-mold/",
+    "title": "Vedini 15 cavity heart with raindrop shape silicon resin mold Valentine silicone chocolate moulds JKB-652",
+    "variations": [],
+    "simple_price": 75.0
+  },
+  "https://jindeal.com/product/vedini-12-cavity-cube-shape-silicone-mold-jkb-191/": {
+    "url": "https://jindeal.com/product/vedini-12-cavity-cube-shape-silicone-mold-jkb-191/",
+    "title": "Vedini 12 Cavity Bubble Cube shape 4 grid silicone cake mold, hand make diy soap mold candle mold ( 30- 40 Gm) JKB-191",
+    "variations": [],
+    "simple_price": 279.0
   }
 }
